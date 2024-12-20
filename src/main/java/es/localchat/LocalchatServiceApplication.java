@@ -1,4 +1,4 @@
-package es.localchat.localchat;
+package es.localchat;
 
 import com.netflix.discovery.EurekaClient;
 import org.springframework.beans.factory.annotation.Autowired;

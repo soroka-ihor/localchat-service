@@ -1,4 +1,4 @@
-package es.localchat.localchat;
+package es.localchat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
